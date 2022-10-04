@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+daKseOd/+Fx75lNOXch6GOYt2/WzMbYMBvUn9QARHjwZPbMlHI+gRdG9q8/9wnH41OGgUaZCKWRA+0BGDHJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shedev\\workplace\\Demo.BackEndServices.WebAPI\\Demo.BackEndServices\\Demo.BackEndServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shedev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
